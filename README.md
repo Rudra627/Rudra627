@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Rudra Sahu, a B.Tech student and a passionate Computer Science learner.<br>I enjoy learning Data Structures & Algorithms, Java, and Web Development.<br><br>I regularly practice problems on LeetCode to improve my problem-solving skills and logical thinking.<br>I also like building small projects using HTML, CSS, JavaScript, React, and Node.js.<br><br>Currently, I am focused on:<br><br>Improving my DSA concepts<br><br>Building real-world projects<br><br>Learning backend development<br><br>Growing consistently as a developer 🚀<br><br>I believe in learning by doing and staying consistent every day.
+Hi, I’m Rudra Sahu, a B.Tech student and a passionate Computer Science learner.<br>I enjoy learning Data Structures & Algorithms, Java, and Web Development.<br><br>I regularly practice problems on LeetCode to improve my problem-solving skills and logical thinking.<br>I also like building small projects using HTML, CSS, JavaScript, React, and Node.js.<br><br>Currently, I am focused on:<br><br>Improving my DSA concepts<br><br>Building real-world projects<br><br>Learning backend development<br>
+Learing AIML<br>Growing consistently as a developer 🚀<br><br>I believe in learning by doing and staying consistent every day.
 
 
 ## 🌐 Socials:
