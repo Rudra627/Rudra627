@@ -1,5 +1,5 @@
-#                                                                 <h1>💫Rudra Narayan Sahu:</h1>
-👋 Hi, I’m Rudra Sahu, a B.Tech student passionate about DSA, Java,Web Development and AIML.
+#                                                                 <h1>Rudra Narayan Sahu:</h1>
+👋 Hi, I’m Rudra, a B.Tech student passionate about DSA,Compitative Programming,Web Development and AIML.
 💻 I enjoy solving problems on LeetCode and building projects to learn by doing.
 🚀 Always learning and growing as a developer.
 
