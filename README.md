@@ -1,7 +1,7 @@
 #                                                                 <h1>Rudra Narayan Sahu:</h1>
 👋 Hi, I’m Rudra, a B.Tech student passionate about DSA,Compitative Programming,Web Development and AIML.
 💻 I enjoy solving problems on LeetCode and building projects to learn by doing.
-🚀 Always learning and growing as a developer.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rudra-narayan-sahu-16a946328) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@infinitecode_hub?si=Rd19_JKCZVcilGiA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrasahu9007@gmail.com) 
