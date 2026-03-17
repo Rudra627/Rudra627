@@ -1,6 +1,7 @@
 #                                                                 <h1>Rudra Narayan Sahu</h1>
-👋 Hi, I’m Rudra, 
-\n passionate about <b>DSA,Compitative Programming,Web Development,Machine Learning ,Neural Network and Computer Vision.</b>
+👋 Hi, I’m <b><i>Rudra</i></b>
+<br>
+passionate about <b>DSA,Compitative Programming,Web Development,Machine Learning ,Neural Network and Computer Vision.</b>
 💻 <i>Learning.........</i>
 
 
