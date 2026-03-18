@@ -3,7 +3,7 @@
 <br>
 passionate about <b>DSA,Compitative Programming,Web Development,Machine Learning ,Neural Network and Computer Vision.</b>
 <br>
-💻 <i>Learning.........</i>
+💻 <i>Learning......</i>
 
 
 ## 🌐 Socials:
