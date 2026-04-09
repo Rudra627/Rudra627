@@ -10,7 +10,7 @@ passionate about <b>DSA,Compitative Programming,Web Development,Machine Learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rudra-narayan-sahu-16a946328) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@infinitecode_hub?si=Rd19_JKCZVcilGiA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrasahu9007@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=orange)](https://leetcode.com/u/Rudranarayansahu18/)
 <br>
-my site:<a>https://rudranarayansahu.vercel.app/</a>
+my site:<a href="https://rudranarayansahu.vercel.app">Rudra</a>
 
 
 # 💻 Tech Stack:
